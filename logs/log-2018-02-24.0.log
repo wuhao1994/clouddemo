@@ -1,0 +1,8 @@
+[ INFO ] [2018-02-24 00:00:33] com.netflix.eureka.registry.AbstractInstanceRegistry [1254] - Running the evict task with compensationTime 0ms
+[ INFO ] [2018-02-24 00:01:33] com.netflix.eureka.registry.AbstractInstanceRegistry [1254] - Running the evict task with compensationTime 0ms
+[ INFO ] [2018-02-24 00:02:33] com.netflix.eureka.registry.PeerAwareInstanceRegistryImpl [541] - Current renewal threshold is : 3
+[ INFO ] [2018-02-24 00:02:33] com.netflix.eureka.registry.AbstractInstanceRegistry [1254] - Running the evict task with compensationTime 0ms
+[ INFO ] [2018-02-24 00:03:33] com.netflix.eureka.registry.AbstractInstanceRegistry [1254] - Running the evict task with compensationTime 0ms
+[ INFO ] [2018-02-24 00:04:33] com.netflix.eureka.registry.AbstractInstanceRegistry [1254] - Running the evict task with compensationTime 0ms
+[ INFO ] [2018-02-24 00:05:33] com.netflix.eureka.registry.AbstractInstanceRegistry [1254] - Running the evict task with compensationTime 0ms
+[ INFO ] [2018-02-24 00:06:33] com.netflix.eureka.registry.AbstractInstanceRegistry [1254] - Running the evict task with compensationTime 0ms
